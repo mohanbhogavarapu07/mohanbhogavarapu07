@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [next js](https://github.com/narayanabhogav/wiz-poc)
-
-- 🌱 I’m currently learning **Next js,firebase**
+- 🌱 I’m currently learning **Fast Api**
 
 - 💬 Ask me about **MERN stack**
 
