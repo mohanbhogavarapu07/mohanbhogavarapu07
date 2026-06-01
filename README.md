@@ -9,9 +9,6 @@
   <a href="https://linkedin.com/in/mohan-bhogavarapu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:mohanbhogavarapu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
 </p>
 
 ### About Me
@@ -33,7 +30,7 @@ I am a passionate **Full Stack Developer** specializing in creating highly inter
   
 | **Frontend** | **Backend & Databases** | **Programming Languages** | **Tools & Cloud** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=java,python" /> | <img src="https://skillicons.dev/icons?i=git,github,cloudflare,postman" /> |
+| <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=java,python" /> | <img src="https://skillicons.dev/icons?i=git,github,cloudflare,postman" /> |
 
 </div>
 
